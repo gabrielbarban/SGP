@@ -1,0 +1,22 @@
+ #foda{
+position: absolute;
+left: 42%;
+width: 340px;
+border-style: solid;
+border-color: black;
+background-color: #C1CDCD;   //#E0EEEE       
+}              
+                 
+  
+
+#geral{
+position:absolute;
+top:25%;
+left:42%;
+width:850px;
+margin-left:-250px;
+margin-top:-150px;
+border-style: solid;
+border-color: black;
+background-color: #C1CDCD;   //#E0EEEE    
+}     
